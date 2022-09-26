@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Rokkitt:wght@100;500;800&display=swap');
+
+@font-face{
+    font-family:Avenue;
+    src:url("fonts/TropicalCountry.ttf");
+}   
+
+p {
+    background-color: salmon;
+    /* font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
+    /* font-family: 'Rokkitt', serif; */
+    font-family:Avenue;
+    font-size:18pt;
+    font-weight:100;
+}
+
+/* class */
+.bg-clr-1 {
+    background-color: aquamarine;
+}
+.text-clr-1{
+        color:red;
+    }
+    /* id */
+#main-colors {
+    background-color: blueviolet;
+}
+
+
